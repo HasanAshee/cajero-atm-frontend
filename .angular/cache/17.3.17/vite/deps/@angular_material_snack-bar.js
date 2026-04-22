@@ -1,10 +1,4 @@
 import {
-  ArrayDataSource,
-  _RecycleViewRepeaterStrategy,
-  _VIEW_REPEATER_STRATEGY,
-  isDataSource
-} from "./chunk-2BNXR42Y.js";
-import {
   MatButton,
   MatButtonModule
 } from "./chunk-BCHAD4TN.js";
@@ -15,6 +9,12 @@ import {
   transition,
   trigger
 } from "./chunk-IHVAMN45.js";
+import {
+  ArrayDataSource,
+  _RecycleViewRepeaterStrategy,
+  _VIEW_REPEATER_STRATEGY,
+  isDataSource
+} from "./chunk-2BNXR42Y.js";
 import {
   BidiModule,
   BreakpointObserver,
